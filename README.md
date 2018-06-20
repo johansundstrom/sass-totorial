@@ -3,7 +3,7 @@ Kom igång med Sass
 * Syntactically awesome style sheets
 * Från 2006
 * Sass är ett skriptspråk som interpreteras och kompileras till Cascading Style Sheets (CSS)
-* Sass-kompilator behöver instaleras
+* Sass-kompilator behöver instaleras - https://sass-lang.com/install
 * Ett exempel är `node-sass` från NodeJs-biblioteken via npm
 * Filtyp: .sass, .scss
 
