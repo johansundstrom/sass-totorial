@@ -1,5 +1,10 @@
 # sass-totorial
 Kom igång med Sass
+* Syntactically awesome style sheets
+* Sass är ett skriptspråk som interpreteras och kompileras till Cascading Style Sheets (CSS)
+* Från 2006
+* Filtyp: .sass, .scss
+
 ## Visual Studio Code
 * Skapa mappen `css`
 * Skapa mappen `scss` och filen `style.scss` i mappen
