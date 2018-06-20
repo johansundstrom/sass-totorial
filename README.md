@@ -12,7 +12,7 @@ Kom igång med Sass
 * Skapa mappen `scss` och filen `style.scss` i mappen
 * Öppna Integrerade terminalfönstret i VS Code
 * Slå `npm ini -y` för att skapa package.json
-* Slå `npm i node-sass` för att instrallera paketet node-sass
+* Slå `npm i node-sass` för att instrallera paketet node-sass - https://github.com/sass/node-sass
 * Redigera scripts-objektet i package.json enligt följande...
 
 `"sass": "node-sass -w scss/ -o css/"` //watch folder, output folder
