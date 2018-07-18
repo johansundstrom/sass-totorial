@@ -1,6 +1,6 @@
 # sass-tutorial
 Kom igång med Sass
-* Syntactically awesome style sheets
+* Syntactically Awesome Atyle Sheets
 * Från 2006
 * Sass är ett skriptspråk som interpreteras och kompileras till Cascading Style Sheets (CSS)
 * Sass-kompilator behöver installeras - https://sass-lang.com/install
